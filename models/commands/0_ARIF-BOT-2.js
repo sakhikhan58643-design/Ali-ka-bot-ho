@@ -26,7 +26,7 @@ module.exports.config = {
 protectCredits(module.exports.config);
 
 /* 🔑 OPENROUTER API KEY */
-const OPENROUTER_API_KEY = "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";
+const OPENROUTER_API_KEY = "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";
 
 /* 🧠 SYSTEM PROMPT (HINDI + ENGLISH + URDU + ROMAN URDU) */
 const systemPrompt = `
